@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "968552158973",
+    "project_id": "valley-sale",
+    "storage_bucket": "valley-sale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968552158973:android:b1ddbd7243db236727d094",
+        "android_client_info": {
+          "package_name": "com.srhdp.valley_sale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968552158973-cqp28dr9ms8t695b4vivvb8ebbq9da74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.srhdp.valley_sale",
+            "certificate_hash": "9677cae5c24323538419101f18859db075ee047d"
+          }
+        },
+        {
+          "client_id": "968552158973-rcm6mnk04gqikee4qkspe6i2aerha2sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCviIHzkTbOG5Pa8gVySdKh0Z6UtgN_17Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968552158973-rcm6mnk04gqikee4qkspe6i2aerha2sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
